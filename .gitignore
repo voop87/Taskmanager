@@ -13,4 +13,5 @@ node_modules/
 project/
 
 # Файлы сборки (допишите самостоятельно)
-
+public/bundle.js
+public/bundle.js.map
